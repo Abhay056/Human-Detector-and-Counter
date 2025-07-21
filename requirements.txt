@@ -1,0 +1,4 @@
+ultralytics
+tkinter
+os
+opencv-python
